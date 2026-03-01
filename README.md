@@ -9,16 +9,17 @@
 
 ---
 
-## Current Market Context (Feb 23, 2026)
+## Current Market Context (Feb 28, 2026)
 
 ```
-Fear & Greed: 5  <- 22 consecutive days of extreme fear
-BTC:  $65,675  RSI 1H=37
-ETH:  $1,878   RSI 1H=31
-SOL:  $78.95   RSI 1H=30
+Fear & Greed: 14  (Extreme Fear — 27+ consecutive days)
+BTC:  $67,289  +2.4% 24h
+ETH:  $2,012   +4.5% 24h
+SOL:  $87.69   +7.3% 24h
 
 Kill zones are MOST powerful in trending/fear markets.
 High RSI at a kill zone = highest probability SHORT setup.
+Dead cat bounce in extreme fear = prime kill zone SHORT territory.
 ```
 
 ---
