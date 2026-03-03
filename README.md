@@ -14,16 +14,19 @@
 ## Current Market Context (March 3, 2026)
 
 ```
-Fear & Greed: 14  (Extreme Fear — 27+ consecutive days)
-BTC:  $67,289  +2.4% 24h
-ETH:  $2,012   +4.5% 24h
-SOL:  $87.69   +7.3% 24h
+BTC:  $68,437  +2.30% 24h
+ETH:  $2,012   +1.93% 24h
+SOL:  $86.42   +1.80% 24h
 
-Kill zones are MOST powerful in ranging/choppy markets like today.
-Live scan: 706 funding extremes found. POWER LONG FIRE signal score=8.0.
-High RSI at a kill zone = highest probability SHORT setup.
+Live scan: 668 funding extremes found. POWER LONG FIRE signal active (score=8.0).
+EU OPEN kill zone: 6h 18m away — 88.9% SHORT win rate.
+NY CLOSE 20:00 UTC: tonight — 98.4% win rate. The strongest window.
+
 Dead cat bounce in extreme fear = prime kill zone SHORT territory.
+High RSI entering a kill zone = highest probability setup in this data.
 ```
+
+> **AlphaScope** — free dashboard that shows kill zone countdowns live, with win rates and direction for all 4 windows: [github.com/visioneth/AlphaScope](https://github.com/visioneth/AlphaScope)
 
 ---
 
