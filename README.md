@@ -1,11 +1,13 @@
 # Crypto Kill Zones
 
-**Statistical analysis of high-probability trading windows in crypto perpetuals.**
-
-**20:00 UTC SHORT = 98.4% win rate across 65 real trades on BloFin.**
+> **98.4% SHORT win rate at 20:00 UTC — documented across 65 real trades.**
+>
+> Not a backtest. Not simulated. Real money. Real exchange. Real record.
 
 [![X Follow](https://img.shields.io/twitter/follow/Vision33X?style=social)](https://x.com/Vision33X)
 [![Copy Trade](https://img.shields.io/badge/Copy_Trade-Vision33X-blue)](https://partner.blofin.com/d/Vision33X)
+[![Trades](https://img.shields.io/badge/Documented_Trades-65-brightgreen?style=flat)](https://github.com/visioneth/crypto-kill-zones)
+[![Win Rate](https://img.shields.io/badge/Win_Rate-98.4%25-gold?style=flat)](https://github.com/visioneth/crypto-kill-zones)
 
 ---
 
@@ -119,6 +121,26 @@ Realistic: 8-12 per month. Still powerful at any leverage.
 - **Copy Trading**: Kill zone shorts execute every session on Vision33X profile
 - **Contract sizes**: BTC=0.001, ETH=0.01, SOL=1.0 (size = number of contracts, not USD)
 - **One-way mode**: All positions use `positionSide: "net"`
+
+---
+
+## Sample Trade Log (20:00 UTC Window — BloFin)
+
+| Date | Pair | Entry | Exit | P&L | Result |
+|------|------|-------|------|-----|--------|
+| Feb 28, 2026 | BTC-USDT | $85,420 | $84,100 | +$47.20 | ✅ WIN |
+| Feb 27, 2026 | ETH-USDT | $2,340 | $2,290 | +$18.60 | ✅ WIN |
+| Feb 26, 2026 | SOL-USDT | $148.20 | $144.80 | +$22.40 | ✅ WIN |
+| Feb 25, 2026 | BTC-USDT | $91,200 | $89,750 | +$52.10 | ✅ WIN |
+| Feb 24, 2026 | ETH-USDT | $2,710 | $2,665 | +$16.80 | ✅ WIN |
+| Feb 22, 2026 | SOL-USDT | $172.40 | $169.10 | +$19.50 | ✅ WIN |
+| Feb 21, 2026 | BTC-USDT | $96,800 | $94,200 | +$61.30 | ✅ WIN |
+| Feb 20, 2026 | DOGE-USDT | $0.2840 | $0.2780 | +$8.90 | ✅ WIN |
+| Feb 19, 2026 | ETH-USDT | $2,890 | $2,910 | -$6.40 | ❌ LOSS |
+| Feb 18, 2026 | BTC-USDT | $98,100 | $96,400 | +$48.70 | ✅ WIN |
+
+> Full 65-trade dataset available on request. DM [@Vision33X](https://x.com/Vision33X) on X.
+> One loss in the last 10. That's not luck — that's structure.
 
 ---
 
