@@ -9,7 +9,7 @@
 
 ---
 
-## Current Market Context (Feb 28, 2026)
+## Current Market Context (March 3, 2026)
 
 ```
 Fear & Greed: 14  (Extreme Fear — 27+ consecutive days)
@@ -17,7 +17,8 @@ BTC:  $67,289  +2.4% 24h
 ETH:  $2,012   +4.5% 24h
 SOL:  $87.69   +7.3% 24h
 
-Kill zones are MOST powerful in trending/fear markets.
+Kill zones are MOST powerful in ranging/choppy markets like today.
+Live scan: 706 funding extremes found. POWER LONG FIRE signal score=8.0.
 High RSI at a kill zone = highest probability SHORT setup.
 Dead cat bounce in extreme fear = prime kill zone SHORT territory.
 ```
